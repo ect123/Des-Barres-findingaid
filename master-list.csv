@@ -9,19 +9,19 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 ,,,General Remarks (verso),http://maps.bpl.org/id/15181,1777,,other,,
 ,,70,Tables,http://maps.bpl.org/id/15172,1777,,other,0,0
 ,,,Tables (verso),http://maps.bpl.org/id/15173,1777,,other,,
-1,1a,6,"The coast of Nova Scotia, New England, New-York, Jersey, the Gulph and River of St. Lawrence : the islands of Newfoundland, Cape Breton, St. John, Antecosty, Sable, & c, and soundings thereof ? (engr. plate 4). ",http://maps.bpl.org/id/15112,1780,9,map,,
-1,1a,8,A chart of Nova Scotia,http://maps.bpl.org/id/15111,1775,1,map,,
+1,1a,6,"The coast of Nova Scotia, New England, New-York, Jersey, the Gulph and River of St. Lawrence : the islands of Newfoundland, Cape Breton, St. John, Antecosty, Sable, & c, and soundings thereof ? (engr. plate 4). ",http://maps.bpl.org/id/15112,1780,9,map,yes,1-1a-6
+1,1a,8,A chart of Nova Scotia,http://maps.bpl.org/id/15111,1775,1,map,yes,1-1a-8
 1,1a,43," Mechios River near the Mills; A Sketch of Mechios Mills, July 31, 1777 (2 views)",http://maps.bpl.org/id/15113,1777,,view,,
-1,1a,10,The River St. John ... (engr. plate 6). ,http://maps.bpl.org/id/15114,1780,6,map,,
-1,1a,13,The isthmus of Nova Scotia. (engr. plate 7),http://maps.bpl.org/id/15115,1780,6,map,,
-1,1a,15,[Chignecto Bay and vicinity],http://maps.bpl.org/id/15116,[177-],2,map,,
+1,1a,10,The River St. John ... (engr. plate 6). ,http://maps.bpl.org/id/15114,1780,6,map,yes,1-1a-10
+1,1a,13,The isthmus of Nova Scotia. (engr. plate 7),http://maps.bpl.org/id/15115,1780,6,map,yes,1-1a-13
+1,1a,15,[Chignecto Bay and vicinity],http://maps.bpl.org/id/15116,1777,2,map,yes,1-1a-15
 1,1b,17,Cape Blowmedown ; Cape Split ; Spencers Island and the entrance to Mines Bason ; Ile Haut and Cape Chegnecto (4 views),http://maps.bpl.org/id/15117,[177-],,view,,
-1,1b,19,Annapolis Royal ... ; St. Mary's Bay,http://maps.bpl.org/id/15118,1776,2,map,,
+1,1b,19,Annapolis Royal ... ; St. Mary's Bay,http://maps.bpl.org/id/15118,1776,2,map,yes,1-1b-19
 1,1b,21,"South entrance of Grand Passage; Cape St. Mary, N:E: one mile ; St. Mary's Bay (3 views)",http://maps.bpl.org/id/15119,[177-],,view,,
-1,1b,22,[Southwest coast of Nova Scotia from Cape Sable to Cape St. Mary]. ,http://maps.bpl.org/id/15120,1776,2,map,,
+1,1b,22,[Southwest coast of Nova Scotia from Cape Sable to Cape St. Mary]. ,http://maps.bpl.org/id/15120,1776,2,map,yes,1-1b-22
 1,1b,23,Cape Prospect bearing N: by E: distant 10 1/2 miles ; Cape Sambro ... ; The high lands of Haspotagoen ... ; The Ovens ... ; Cape Sable bearing N.N.W. ... ; The entrance of Barrington Bay ... ; Cape Sable bearing N:E: by N: distant 4 miles (5 views),http://maps.bpl.org/id/15121,1781,,view,,
 1,1b,24,The south west coast of the peninsula of Nova Scotia, http://maps.bpl.org/id/15122,1776,2,n/a,,
-1,1b,25,Barrington Bay,http://maps.bpl.org/id/n42233,1776,2,map,,
+1,1b,25,Barrington Bay,http://maps.bpl.org/id/n42233,1776,2,map,yes,1-1b-25
 1,1b,26,Port Amherst ; Port Haldimand,http://maps.bpl.org/id/15124,1775,1,map,,
 1,1b,27,Port Campbell,http://maps.bpl.org/id/15125,1776,2,map,,
 1,1c,28,Port Mills ; Port Mansfield ; Gambier Harbour,http://maps.bpl.org/id/15126,1776,1,map,,
