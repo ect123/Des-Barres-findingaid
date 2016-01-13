@@ -1,12 +1,14 @@
 Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete,shape-name 
-1,1a,1,General title to volume 1,,,0,other,0,0
-1,1a,2,Title: The Sea Coasts of Nova Scotia,,,,other,0,0
-1,1a,2a,Utility of the Atlantic Neptune ,,,,other,0,0
-1,1a,3,Contents of the charts and views of Nova Scotia ,,,,other,0,0
-1,1a,3a,Contents of the charts and views of Nova Scotia (variant),,,,other,0,0
-1,1a,4,References ,,,,other,0,0
-1,1a,5,General Remarks ,,,,other,0,0
-,,70,Tables,,,,other,0,0
+1,1a,1,General title to volume 1,http://maps.bpl.org/id/15174,1777,0,other,0,0
+1,1a,2,Title: The Sea Coasts of Nova Scotia,http://maps.bpl.org/id/15175,1777,,other,0,0
+1,1a,2a,Utility of the Atlantic Neptune ,http://maps.bpl.org/id/15176,1777,,other,0,0
+1,1a,3,Contents of the charts and views of Nova Scotia ,http://maps.bpl.org/id/15177,1777,,other,0,0
+1,1a,3a,Contents of the charts and views of Nova Scotia (variant),http://maps.bpl.org/id/15178,1777,,other,0,0
+1,1a,4,References ,http://maps.bpl.org/id/15179,1777,,other,0,0
+1,1a,5,General Remarks ,http://maps.bpl.org/id/15180,1777,,other,0,0
+,,,General Remarks (verso),http://maps.bpl.org/id/15181,1777,,other,,
+,,70,Tables,http://maps.bpl.org/id/15172,1777,,other,0,0
+,,,Tables (verso),http://maps.bpl.org/id/15173,1777,,other,,
 1,1a,6,"The coast of Nova Scotia, New England, New-York, Jersey, the Gulph and River of St. Lawrence : the islands of Newfoundland, Cape Breton, St. John, Antecosty, Sable, & c, and soundings thereof ? (engr. plate 4). ",http://maps.bpl.org/id/15112,1780,9,map,,
 1,1a,8,A chart of Nova Scotia,http://maps.bpl.org/id/15111,1775,1,map,,
 1,1a,43," Mechios River near the Mills; A Sketch of Mechios Mills, July 31, 1777 (2 views)",http://maps.bpl.org/id/15113,1777,,view,,
@@ -63,47 +65,49 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 1,2c,65,A view of the east end of the Isle Sable ... ; The eastern end of the Isle Sable ... ; A view taken from the south side of the N:E: Barr ... ; A view taken from the ridge of the N:E: Barr ... ; A view of the north shore of the Isle Sable ? (5 views on 1 sheet),http://maps.bpl.org/id/15168,1776,,view,,
 1,2c,67,4 views and coastal profiles,http://maps.bpl.org/id/15169,1776,,view,,
 1,2c,68,Remarks on the Isle of Sable,http://maps.bpl.org/id/15170,1777,,other,0,0
+,,,Remarks on the Isle of Sable (con't),http://maps.bpl.org/id/15171,1777,,other,,
 2,1a,[2],Blank sheet,0,,,other,0,
-2,1a,3,Atlantic Neptune. Part II. (contents page),,1777?,,other,0,0
-2,1a,4,[Chart of the gulf and river of St. Lawrence],,1777?,1,,,
-2,1a,5,The St. Lawrence River from the Chaudiere River to Point aux Cocques,,1777?,2,,,
-2,1a,7,"A plan of Quebec and environs, with its defences and the occasional entrenched camps of the French commanded by Marquis de Montcalm; shewing likewise the principal works and operations of the British forces, under the command of Major General Wolfe, during the seige of that place in 1759",,[1779],1,,,
-2,1a,8,[Bay of Seven Islands],,1-21-1778,2,,,
-2,1a,9,[Chart of the coast of Quebec from the Riviere St. Jean to Grand Hermine Bay],,10-1-1777,2,,,
-2,1a,10,[Harbour and bay of Gaspee. Maul Bay.],,[1777],1,,,
-2,1a,11,[Bay of Chaleurs],,9-1-1777,1,,,
-2,1b,12,Miramichi Bay,,9-1-1777,2,,,
-2,1b,13,The harbours of Rishibucto & Bustush on the west shore of the gulph of St. Lawrence,,1-26-1778,1,,,
-2,1b,14,The Magdalen Isles in the Gulph of St. Lawrence,,1-20-1778,1,,,
-2,1b,16,A chart of the island of Cape Breton,,1781?,2,,,
-2,1b,69A,[The south east coast of the island of St. John] (left sheet),,1780,1,,,
-2,1b,17,[The south east coast of the island of St. John] (right sheet),,1780,1,,,
-2,1b,18A,The south east coast of the island of St. John (left sheet only),,1780,2,,,
+,,,General title to volume 2,http://maps.bpl.org/id/15186,1777,,other,,
+2,1a,3,Atlantic Neptune. Part II. (contents page),http://maps.bpl.org/id/15187,1777?,,other,0,0
+2,1a,4,[Chart of the gulf and river of St. Lawrence],http://maps.bpl.org/id/12607,1777?,1,map,,
+2,1a,5,The St. Lawrence River from the Chaudiere River to Point aux Cocques,http://maps.bpl.org/id/12608,1777?,2,map,,
+2,1a,7,"A plan of Quebec and environs, with its defences and the occasional entrenched camps of the French commanded by Marquis de Montcalm; shewing likewise the principal works and operations of the British forces, under the command of Major General Wolfe, during the seige of that place in 1759",http://maps.bpl.org/id/12609,[1779],1,map,,
+2,1a,8,[Bay of Seven Islands],http://maps.bpl.org/id/12610,1-21-1778,2,map,,
+2,1a,9,[Chart of the coast of Quebec from the Riviere St. Jean to Grand Hermine Bay],http://maps.bpl.org/id/12611,10-1-1777,2,map,,
+2,1a,10,[Harbour and bay of Gaspee. Maul Bay.],http://maps.bpl.org/id/12612,[1777],1,map,,
+2,1a,11,[Bay of Chaleurs],http://maps.bpl.org/id/12613,9-1-1777,1,map,,
+2,1b,12,Miramichi Bay,http://maps.bpl.org/id/12614,9-1-1777,2,map,,
+2,1b,13,The harbours of Rishibucto & Bustush on the west shore of the gulph of St. Lawrence,http://maps.bpl.org/id/12615,1-26-1778,1,map,,
+2,1b,14,The Magdalen Isles in the Gulph of St. Lawrence,http://maps.bpl.org/id/12616,1-20-1778,1,map,,
+2,1b,16,A chart of the island of Cape Breton,http://maps.bpl.org/id/12617,1781?,2,map,,
+2,1b,69A,[The south east coast of the island of St. John] (left sheet),http://maps.bpl.org/id/12618,1780,1,map,,
+2,1b,17,[The south east coast of the island of St. John] (right sheet),http://maps.bpl.org/id/12619,1780,1,map,,
+2,1b,18A,The south east coast of the island of St. John (left sheet only),http://maps.bpl.org/id/12620,1780,2,map,,
 2,1b,18,A chart of Cape Breton and St. John's Islands &c. in the gulph of St. Lawrence,,1781?,2,,,
-2,1b,19,"A chart of the N.E. coast of Cape Breton Island, from St. Ann Bay to Cape Morien",,1779,1,,,
-2,1b,20,The south east coast of Cape Breton Island ?,,7-30-1779,2,,,
+2,1b,19,"A chart of the N.E. coast of Cape Breton Island, from St. Ann Bay to Cape Morien",http://maps.bpl.org/id/12621,1779,1,,,
+2,1b,20,The south east coast of Cape Breton Island ?,http://maps.bpl.org/id/12622,7-30-1779,2,map,,
 2,2a,26,Charts of the coast and harbours of New England ?,,1777?,,,,
-2,2a,27,Atlantic Neptune. Part III. (contents),,1777?,,,,
-2,2a,27b,Contents. (variant contents page),,1777?,,,,
-2,2a,27a,The coast of New England,,4-24-1776,1,,,
-2,2a,30,A chart of the harbour of Rhode Island and Narraganset Bay,,5-3-1776,3,,,
-2,2a,31,[Coast of Maine from Frenchman Bay to Mosquito Harbor],,4-24-1776,3,,,
-2,2a,32,[Mount Desert Island and neighboring coast of Maine],,7-15-1776,2,,,
-2,2a,33,"[Coast of Maine showing entrances of Blue Hill Bay, Isle of Haut Bay, and Penobscot Bay, with Owls Head, Vinalhaven Island, Isle au Haut, and other islands]",,8-17-1776,1,,,
-2,2a,34,"[Coast of Maine showing Blue Hill Bay, Penobscot Bay, Belfast Bay, Islesboro Island, Deer Island, and other islands]",,9-3-1776,1?,,,
-2,2a,35,[Coast of Maine from Mosquito Head to Spurwink River],,4-24-1776,2,,,
-2,2a,36,[Falmouth Harbour],,[177-?],1,,,
-2,2a,37,[Coast of Maine from Rockland Harbour to Pemaquid Point],,6-24-1776,3,,,
-2,2a,38,[Coast of Maine from Salter Island to Portland Head],,7-15-1776,2?,,,
-2,2b,41,[Coast of New Hampshire and Massachusetts from Great Boars Head to Marblehead Harbor],,5-6-1776,1?,,,
-2,2b,44,"[Coast of Massachusetts from Cape Ann to Manomet Point, including northern tip of Cape Cod]",,4-29-1776,2,,,
-2,2b,45,[Boston Bay and vicinity],,11-13-1776,1,,,
-2,2b,47,[A chart of the Harbour of Boston],,8-5-1775,1,,,
+2,2a,27,Atlantic Neptune. Part III. (contents),http://maps.bpl.org/id/15189,1777?,,other,,
+2,2a,27b,Contents. (variant contents page),http://maps.bpl.org/id/15190,1777?,,other,,
+2,2a,27a,The coast of New England,http://maps.bpl.org/id/12623,4-24-1776,1,map,,
+2,2a,30,A chart of the harbour of Rhode Island and Narraganset Bay,http://maps.bpl.org/id/12624,5-3-1776,3,map,,
+2,2a,31,[Coast of Maine from Frenchman Bay to Mosquito Harbor],http://maps.bpl.org/id/12625,4-24-1776,3,map,,
+2,2a,32,[Mount Desert Island and neighboring coast of Maine],http://maps.bpl.org/id/12626,7-15-1776,2,map,,
+2,2a,33,"[Coast of Maine showing entrances of Blue Hill Bay, Isle of Haut Bay, and Penobscot Bay, with Owls Head, Vinalhaven Island, Isle au Haut, and other islands]",http://maps.bpl.org/id/12627,8-17-1776,1,map,,
+2,2a,34,"[Coast of Maine showing Blue Hill Bay, Penobscot Bay, Belfast Bay, Islesboro Island, Deer Island, and other islands]",http://maps.bpl.org/id/12628,9-3-1776,1?,map,,
+2,2a,35,[Coast of Maine from Mosquito Head to Spurwink River],http://maps.bpl.org/id/12629,4-24-1776,2,map,,
+2,2a,36,[Falmouth Harbour],http://maps.bpl.org/id/12630,[177-?],1,map,,
+2,2a,37,[Coast of Maine from Rockland Harbour to Pemaquid Point],http://maps.bpl.org/id/12631,6-24-1776,3,map,,
+2,2a,38,[Coast of Maine from Salter Island to Portland Head],http://maps.bpl.org/id/12632,7-15-1776,2?,map,,
+2,2b,41,[Coast of New Hampshire and Massachusetts from Great Boars Head to Marblehead Harbor],http://maps.bpl.org/id/12634,5-6-1776,1?,map,,
+2,2b,44,"[Coast of Massachusetts from Cape Ann to Manomet Point, including northern tip of Cape Cod]",http://maps.bpl.org/id/12635,4-29-1776,2,map,,
+2,2b,45,[Boston Bay and vicinity],http://maps.bpl.org/id/12636,11-13-1776,1,map,,
+2,2b,47,[A chart of the Harbour of Boston],http://maps.bpl.org/id/12637,8-5-1775,1,map,,
 2,2b,[47a],A chart of the Harbour of Boston ? Nautical remarks and directions,,1775?,,,,
-2,2b,51,[Chart of Plymouth Bay],,[177-],1,,,
-2,2b,54,[Buzzards Bay and Vineyard Sound],,4-25-1776,2,,,
-2,2b,56,A plan of the town of Newport in the province of Rhode Island,,4-24-1776,2,,,
-2,2b,57a,[Coast of Maine from Moose Cove to Gouldsboro Bay],,4-24-1776,2,,,
+2,2b,51,[Chart of Plymouth Bay],http://maps.bpl.org/id/12638,[177-],1,map,,
+2,2b,54,[Buzzards Bay and Vineyard Sound],http://maps.bpl.org/id/12639,4-25-1776,2,map,,
+2,2b,56,A plan of the town of Newport in the province of Rhode Island,http://maps.bpl.org/id/12640,4-24-1776,2,other,,
+2,2b,57a,[Coast of Maine from Moose Cove to Gouldsboro Bay],http://maps.bpl.org/id/12641,4-24-1776,2,map,,
 2,2b,57b,[Coast of New England from Chatham Harbor to Narragansett Bay],,[1776],3,,,
 2,3,63,"A chart of the coast of New York, New Jersey, Pensilvania, Maryland, Virginia, North Carolina &c.",,3-1-1780,1,,,
 2,3,65,[A chart of New York Island & North River ?],,[177-],2,,,
