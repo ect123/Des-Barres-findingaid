@@ -30,13 +30,13 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 1,1c,30,Port Jackson,http://maps.bpl.org/id/15130,1781,6,map,yes,1-1c-30
 1,1c,31,Kings Bay ; Lunenburg,http://maps.bpl.org/id/15131,1776,2,map,yes,1-1c-31
 1,1c,32,Mecklenburgh Bay,http://maps.bpl.org/id/15132,1776,1,map,yes,1-1c-32
-1,1c,33,Charlotte Bay,http://maps.bpl.org/id/15134,1776,1,map,,
-1,1c,34,Leith Harbour,http://maps.bpl.org/id/15135,1775,1,map,,
+1,1c,33,Charlotte Bay,http://maps.bpl.org/id/15134,1776,1,map,yes,1-1c-33
+1,1c,34,Leith Harbour,http://maps.bpl.org/id/15135,1775,1,map,yes,1-1c-34
 1,2a,35,The South East Coast of Nova Scotia,http://maps.bpl.org/id/15122,1776,2,n/a,,
 1,2a,36,"A view from the south eastward of Halifax Harbor ; Appearance of the shore, (at three miles off,) four or five leagues to the eastward of Halifax Harbor ; A view taken 4 miles off shore, Halifax Harbor bearing north ; Sambro light house, bearing west 4 1/2 miles distant ; Sambro light-house south-east distant 1 mile ; Chebucto Head, bearing north 6ø east, distant 2 miles. (6 views)",http://maps.bpl.org/id/15140,1777,,view,,
-1,2a,37,Halifax Harbour ? Catch Harbour,http://maps.bpl.org/id/15141,1776,2,map,,
-1,2a,39,Halifax Harbour ? Catch Harbour,http://maps.bpl.org/id/15142,1781,7,map,,
-1,2a,40,Egmont Harbour,http://maps.bpl.org/id/15143,[177-],1,map,,
+1,2a,37,Halifax Harbour ? Catch Harbour,http://maps.bpl.org/id/15141,1776,2,map,yes,1-2a-37
+1,2a,39,Halifax Harbour ? Catch Harbour,http://maps.bpl.org/id/15142,1781,7,map,yes,1-2a-39
+1,2a,40,Egmont Harbour,http://maps.bpl.org/id/15143,[177-],1,map,yes,1-2a-40
 1,2a,41,"View of Cape Egmont and winter Rock from the eastward ; Entrance of Egmont Harbor ; The entrance of Keppel Harbor, 10 leagues to the eastward of Halifax ; Falls of Hinchinbroke River, the north east branch of Sandwich Bay ; The entrance into Chisetcook Inlet 4 leagues eastward of Halifax ; Dartmouth Shore in the Harbor of Halifax. (6 views)",http://maps.bpl.org/id/15144,1777,,view,,
 1,2a,42,Keppell Harbour ; Knowles Harbour ; Tangier Harbour ; Saunder's Harbour ; Deane Harbour.,http://maps.bpl.org/id/15145,1777?,1,map,,
 1,2a,43,Spry Harbour ; Port Pallisser ; Port North ; Port Parker ; Beaver Harbour ; Fleming River,http://maps.bpl.org/id/15146,1776,1,map,,
