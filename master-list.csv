@@ -22,14 +22,14 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 1,1b,23,Cape Prospect bearing N: by E: distant 10 1/2 miles ; Cape Sambro ... ; The high lands of Haspotagoen ... ; The Ovens ... ; Cape Sable bearing N.N.W. ... ; The entrance of Barrington Bay ... ; Cape Sable bearing N:E: by N: distant 4 miles (5 views),http://maps.bpl.org/id/15121,1781,,view,,
 1,1b,24,The south west coast of the peninsula of Nova Scotia, http://maps.bpl.org/id/15122,1776,2,n/a,,
 1,1b,25,Barrington Bay,http://maps.bpl.org/id/n42233,1776,2,map,yes,1-1b-25
-1,1b,26,Port Amherst ; Port Haldimand,http://maps.bpl.org/id/15124,1775,1,map,,
-1,1b,27,Port Campbell,http://maps.bpl.org/id/15125,1776,2,map,,
-1,1c,28,Port Mills ; Port Mansfield ; Gambier Harbour,http://maps.bpl.org/id/15126,1776,1,map,,
-1,1c,28a,Port Mills ; Port Mansfield ; Gambier Harbour,http://maps.bpl.org/id/15127,1781,7,map,,
-1,1c,29,Liverpool Bay,http://maps.bpl.org/id/15129,1777,1,map,,
-1,1c,30,Port Jackson,http://maps.bpl.org/id/15130,1781,6,map,,
-1,1c,31,Kings Bay ; Lunenburg,http://maps.bpl.org/id/15131,1776,2,map,,
-1,1c,32,Mecklenburgh Bay,http://maps.bpl.org/id/15132,1776,1,map,,
+1,1b,26,Port Amherst ; Port Haldimand,http://maps.bpl.org/id/15124,1775,1,map,yes,1-1b-26
+1,1b,27,Port Campbell,http://maps.bpl.org/id/15125,1776,2,map,yes,1-1b-27
+1,1c,28,Port Mills ; Port Mansfield ; Gambier Harbour,http://maps.bpl.org/id/15126,1776,1,map,yes,1-1c-28
+1,1c,28a,Port Mills ; Port Mansfield ; Gambier Harbour,http://maps.bpl.org/id/15127,1781,7,map,yes,1-1c-28a
+1,1c,29,Liverpool Bay,http://maps.bpl.org/id/15129,1777,1,map,yes,1-1c-29
+1,1c,30,Port Jackson,http://maps.bpl.org/id/15130,1781,6,map,yes,1-1c-30
+1,1c,31,Kings Bay ; Lunenburg,http://maps.bpl.org/id/15131,1776,2,map,yes,1-1c-31
+1,1c,32,Mecklenburgh Bay,http://maps.bpl.org/id/15132,1776,1,map,yes,1-1c-32
 1,1c,33,Charlotte Bay,http://maps.bpl.org/id/15134,1776,1,map,,
 1,1c,34,Leith Harbour,http://maps.bpl.org/id/15135,1775,1,map,,
 1,2a,35,The South East Coast of Nova Scotia,http://maps.bpl.org/id/15122,1776,2,n/a,,
