@@ -69,10 +69,10 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 2,1a,[2],Blank sheet,0,,,other,0,
 ,,,General title to volume 2,http://maps.bpl.org/id/15186,1777,,other,,
 2,1a,3,Atlantic Neptune. Part II. (contents page),http://maps.bpl.org/id/15187,1777?,,other,0,0
-2,1a,4,[Chart of the gulf and river of St. Lawrence],http://maps.bpl.org/id/12607,1777?,1,map,,
-2,1a,5,The St. Lawrence River from the Chaudiere River to Point aux Cocques,http://maps.bpl.org/id/12608,1777?,2,map,,
-2,1a,7,"A plan of Quebec and environs, with its defences and the occasional entrenched camps of the French commanded by Marquis de Montcalm; shewing likewise the principal works and operations of the British forces, under the command of Major General Wolfe, during the seige of that place in 1759",http://maps.bpl.org/id/12609,[1779],1,map,,
-2,1a,8,[Bay of Seven Islands],http://maps.bpl.org/id/12610,1-21-1778,2,map,,
+2,1a,4,[Chart of the gulf and river of St. Lawrence],http://maps.bpl.org/id/12607,1777?,1,map,yes,2-1a-4
+2,1a,5,The St. Lawrence River from the Chaudiere River to Point aux Cocques,http://maps.bpl.org/id/12608,1777?,2,map,yes,2-1a-5
+2,1a,7,"A plan of Quebec and environs, with its defences and the occasional entrenched camps of the French commanded by Marquis de Montcalm; shewing likewise the principal works and operations of the British forces, under the command of Major General Wolfe, during the seige of that place in 1759",http://maps.bpl.org/id/12609,[1779],1,map,yes,2-1a-7
+2,1a,8,[Bay of Seven Islands],http://maps.bpl.org/id/12610,1-21-1778,2,map,yes,2-1a-8
 2,1a,9,[Chart of the coast of Quebec from the Riviere St. Jean to Grand Hermine Bay],http://maps.bpl.org/id/12611,10-1-1777,2,map,,
 2,1a,10,[Harbour and bay of Gaspee. Maul Bay.],http://maps.bpl.org/id/12612,[1777],1,map,,
 2,1a,11,[Bay of Chaleurs],http://maps.bpl.org/id/12613,9-1-1777,1,map,,
