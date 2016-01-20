@@ -38,30 +38,30 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 1,2a,39,Halifax Harbour ? Catch Harbour,http://maps.bpl.org/id/15142,1781,7,map,yes,1-2a-39
 1,2a,40,Egmont Harbour,http://maps.bpl.org/id/15143,[177-],1,map,yes,1-2a-40
 1,2a,41,"View of Cape Egmont and winter Rock from the eastward ; Entrance of Egmont Harbor ; The entrance of Keppel Harbor, 10 leagues to the eastward of Halifax ; Falls of Hinchinbroke River, the north east branch of Sandwich Bay ; The entrance into Chisetcook Inlet 4 leagues eastward of Halifax ; Dartmouth Shore in the Harbor of Halifax. (6 views)",http://maps.bpl.org/id/15144,1777,,view,,
-1,2a,42,Keppell Harbour ; Knowles Harbour ; Tangier Harbour ; Saunder's Harbour ; Deane Harbour.,http://maps.bpl.org/id/15145,1777?,1,map,,1-2a-42
-1,2a,43,Spry Harbour ; Port Pallisser ; Port North ; Port Parker ; Beaver Harbour ; Fleming River,http://maps.bpl.org/id/15146,1776,1,map,,1-2a-43
-1,2a,44,White Island Harbour ; Port Stephen's ; Liscomb Harbour ; Houlton Harbour ; River St. Mary.,http://maps.bpl.org/id/15147,1776,1,map,,1-2a-44
+1,2a,42,Keppell Harbour ; Knowles Harbour ; Tangier Harbour ; Saunder's Harbour ; Deane Harbour.,http://maps.bpl.org/id/15145,1777?,1,map,yes,1-2a-42
+1,2a,43,Spry Harbour ; Port Pallisser ; Port North ; Port Parker ; Beaver Harbour ; Fleming River,http://maps.bpl.org/id/15146,1776,1,map,yes,1-2a-43
+1,2a,44,White Island Harbour ; Port Stephen's ; Liscomb Harbour ; Houlton Harbour ; River St. Mary.,http://maps.bpl.org/id/15147,1776,1,map,yes,1-2a-44
 1,2a,45,Appearance of the land from the White Islands to St. Marys River taken two leagues off shore ; The entrance of Milford Haven at the head of Chedabucto Bay ; The entrance of Port Bickerton bearing N.W. ; A view taken off the entrance of Beaver Harbor Bald Isle bearing E. 15ø N. ;  A view taken in the offing of Beaver Harbor Bald Isle bearing W. by S. 3/4 S. distant 3/4 of a mile ; Appearance of the shore to the westward of Canso Cranberry Isle bearing N. by E. 1/2 E. distant 4 miles ; The Beaver Islands C. Bald Isle N. 1/2 E. ; Appearance of the S:E: point of Nova Scotia taken from Canso Island shewing the distant land of Richmond Isles the Gut of Canso &c. (8 views),http://maps.bpl.org/id/15148,1781,,view,,
-1,2a,46,Sandwich Bay ?,http://maps.bpl.org/id/15149,1776,1,map,,1-2a-46
-1,2b,47,[Torbay],http://maps.bpl.org/id/15150,1775,1?,map,,1-2b-47
-1,2b,48,White Haven,http://maps.bpl.org/id/15151,1774,1?,map,,1-2b-48
-1,2b,49,[Canso Harbour],http://maps.bpl.org/id/15152,1775,1-var,map,,1-2b-49
+1,2a,46,Sandwich Bay ?,http://maps.bpl.org/id/15149,1776,1,map,yes,1-2a-46
+1,2b,47,[Torbay],http://maps.bpl.org/id/15150,1775,1?,map,yes,1-2b-47
+1,2b,48,White Haven,http://maps.bpl.org/id/15151,1774,1?,map,yes,1-2b-48
+1,2b,49,[Canso Harbour],http://maps.bpl.org/id/15152,1775,1-var,map,yes,1-2b-49
 1,2b,49,Sailing directions for Canso Harbour,http://maps.bpl.org/id/15153,1775,,other,0,0
 1,2b,50,Sailing directions for St. Peter's Bay,http://maps.bpl.org/id/15154,1775,,other,0,0
-1,2b,51,"[St. Peters Bay, on the south shore of Cape Breton Island]",http://maps.bpl.org/id/15155,1775,1,map,,1-2b-50
+1,2b,51,"[St. Peters Bay, on the south shore of Cape Breton Island]",http://maps.bpl.org/id/15155,1775,1,map,yes,1-2b-50
 1,2b,51a,Crow Harbour : on the south shore of Chedabuctou Bay ...,http://maps.bpl.org/id/15156,1775,1,other,,
-1,2b,52,Milford Haven,http://maps.bpl.org/id/15157,1775,1,map,,1-2b-52
-1,2b,53,Conway Harbour ; Port Aylesbury,http://maps.bpl.org/id/15158,1776,2,map,,1-2b-53
-1,2b,54,[Lennox Passage Region],http://maps.bpl.org/id/15159,1777,1,map,,
-1,2b,55,The Gut of Canso,http://maps.bpl.org/id/15160,1776,1,map,,
-1,2b,56,[Northumberland Strait. Northeastern district of Nova Scotia. Part of Cape Breton Island. Part of the island of St. John],http://maps.bpl.org/id/15161,5-11-1777,1,map,,
-1,2b,57,[North east coast of Nova Scotia ; Northumberland Streights ; Part of the island of St. John],http://maps.bpl.org/id/15162,5-22-1777,1,map,,
-1,2c,58,Port Hood,http://maps.bpl.org/id/15163,3-4-1776,2,map,,
+1,2b,52,Milford Haven,http://maps.bpl.org/id/15157,1775,1,map,yes,1-2b-52
+1,2b,53,Conway Harbour ; Port Aylesbury,http://maps.bpl.org/id/15158,1776,2,map,yes,1-2b-53
+1,2b,54,[Lennox Passage Region],http://maps.bpl.org/id/15159,1777,1,map,yes,1-2b-54
+1,2b,55,The Gut of Canso,http://maps.bpl.org/id/15160,1776,1,map,yes,1-2b-55
+1,2b,56,[Northumberland Strait. Northeastern district of Nova Scotia. Part of Cape Breton Island. Part of the island of St. John],http://maps.bpl.org/id/15161,5-11-1777,1,map,yes,1-2b-56
+1,2b,57,[North east coast of Nova Scotia ; Northumberland Streights ; Part of the island of St. John],http://maps.bpl.org/id/15162,5-22-1777,1,map,yes,1-2b-57
+1,2c,58,Port Hood,http://maps.bpl.org/id/15163,3-4-1776,2,map,yes,1-2c-58
 1,2c,59,"A view of Port Hood, sailing into the harbor",http://maps.bpl.org/id/15164,1777,,view,,
-1,2c,61,Frederick Bay ? Ramsheg Harbour ? Pictou Harbour ? Port Luttrell,http://maps.bpl.org/id/15165,1776,2,map,,
+1,2c,61,Frederick Bay ? Ramsheg Harbour ? Pictou Harbour ? Port Luttrell,http://maps.bpl.org/id/15165,1776,2,map,yes,1-2c-61
 1,2c,62,"A view of the Plaister Cliffs, in George's Bay (on same sheet as 59)",http://maps.bpl.org/id/15164,1777,,view, ,
-1,2c,63,[Port Shediack and Cocagne],http://maps.bpl.org/id/15166,1776,1,map,,
-1,2c,64,[Isle of Sable],http://maps.bpl.org/id/15167,1777?,1?,map,,
+1,2c,63,[Port Shediack and Cocagne],http://maps.bpl.org/id/15166,1776,1,map,yes,1-2c-63
+1,2c,64,[Isle of Sable],http://maps.bpl.org/id/15167,1777?,1?,map,yes,1-2c-64
 1,2c,65,A view of the east end of the Isle Sable ... ; The eastern end of the Isle Sable ... ; A view taken from the south side of the N:E: Barr ... ; A view taken from the ridge of the N:E: Barr ... ; A view of the north shore of the Isle Sable ? (5 views on 1 sheet),http://maps.bpl.org/id/15168,1776,,view,,
 1,2c,67,4 views and coastal profiles,http://maps.bpl.org/id/15169,1776,,view,,
 1,2c,68,Remarks on the Isle of Sable,http://maps.bpl.org/id/15170,1777,,other,0,0
