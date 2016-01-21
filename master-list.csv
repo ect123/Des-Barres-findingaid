@@ -92,25 +92,26 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 2,2a,30,A chart of the harbour of Rhode Island and Narraganset Bay,http://maps.bpl.org/id/12624,5-3-1776,3,map,yes,2-2a-30
 2,2a,31,[Coast of Maine from Frenchman Bay to Mosquito Harbor],http://maps.bpl.org/id/12625,4-24-1776,3,map,yes,2-2a-31
 2,2a,32,[Mount Desert Island and neighboring coast of Maine],http://maps.bpl.org/id/12626,7-15-1776,2,map,yes,2-2a-32
-2,2a,33,"[Coast of Maine showing entrances of Blue Hill Bay, Isle of Haut Bay, and Penobscot Bay, with Owls Head, Vinalhaven Island, Isle au Haut, and other islands]",http://maps.bpl.org/id/12627,8-17-1776,1,map,,
-2,2a,34,"[Coast of Maine showing Blue Hill Bay, Penobscot Bay, Belfast Bay, Islesboro Island, Deer Island, and other islands]",http://maps.bpl.org/id/12628,9-3-1776,1?,map,,
-2,2a,35,[Coast of Maine from Mosquito Head to Spurwink River],http://maps.bpl.org/id/12629,4-24-1776,2,map,,
-2,2a,36,[Falmouth Harbour],http://maps.bpl.org/id/12630,[177-?],1,map,,
-2,2a,37,[Coast of Maine from Rockland Harbour to Pemaquid Point],http://maps.bpl.org/id/12631,6-24-1776,3,map,,
-2,2a,38,[Coast of Maine from Salter Island to Portland Head],http://maps.bpl.org/id/12632,7-15-1776,2?,map,,
-2,2b,41,[Coast of New Hampshire and Massachusetts from Great Boars Head to Marblehead Harbor],http://maps.bpl.org/id/12634,5-6-1776,1?,map,,
-2,2b,44,"[Coast of Massachusetts from Cape Ann to Manomet Point, including northern tip of Cape Cod]",http://maps.bpl.org/id/12635,4-29-1776,2,map,,
-2,2b,45,[Boston Bay and vicinity],http://maps.bpl.org/id/12636,11-13-1776,1,map,,
-2,2b,47,[A chart of the Harbour of Boston],http://maps.bpl.org/id/12637,8-5-1775,1,map,,
+2,2a,33,"[Coast of Maine showing entrances of Blue Hill Bay, Isle of Haut Bay, and Penobscot Bay, with Owls Head, Vinalhaven Island, Isle au Haut, and other islands]",http://maps.bpl.org/id/12627,8-17-1776,1,map,yes,2-2a-33
+2,2a,34,"[Coast of Maine showing Blue Hill Bay, Penobscot Bay, Belfast Bay, Islesboro Island, Deer Island, and other islands]",http://maps.bpl.org/id/12628,9-3-1776,1?,map,yes,2-2a-34
+2,2a,35,[Coast of Maine from Mosquito Head to Spurwink River],http://maps.bpl.org/id/12629,4-24-1776,2,map,yes,2-2a-35
+2,2a,36,[Falmouth Harbour],http://maps.bpl.org/id/12630,[177-?],1,map,yes,2-2a-36
+2,2a,37,[Coast of Maine from Rockland Harbour to Pemaquid Point],http://maps.bpl.org/id/12631,6-24-1776,3,map,yes,2-2a-37
+2,2a,38,[Coast of Maine from Salter Island to Portland Head],http://maps.bpl.org/id/12632,7-15-1776,2?,map,yes,2-2a-38
+2,2b,39,"Coast of New England from Cape Elizabeth, ME. To Newburyport",http://maps.bpl.org/id/12633,1776,2,map,yes,2-2b-39
+2,2b,41,[Coast of New Hampshire and Massachusetts from Great Boars Head to Marblehead Harbor],http://maps.bpl.org/id/12634,5-6-1776,1?,map,yes,2-2b-41
+2,2b,44,"[Coast of Massachusetts from Cape Ann to Manomet Point, including northern tip of Cape Cod]",http://maps.bpl.org/id/12635,4-29-1776,2,map,yes,2-2b-44
+2,2b,45,[Boston Bay and vicinity],http://maps.bpl.org/id/12636,11-13-1776,1,map,yes,2-2b-45
+2,2b,47,[A chart of the Harbour of Boston],http://maps.bpl.org/id/12637,8-5-1775,1,map,yes,2-2b-47
 2,2b,[47a],A chart of the Harbour of Boston ? Nautical remarks and directions,http://maps.bpl.org/id/15191,1775?,,other,,
-2,2b,51,[Chart of Plymouth Bay],http://maps.bpl.org/id/12638,[177-],1,map,,
-2,2b,54,[Buzzards Bay and Vineyard Sound],http://maps.bpl.org/id/12639,4-25-1776,2,map,,
+2,2b,51,[Chart of Plymouth Bay],http://maps.bpl.org/id/12638,[177-],1,map,yes,2-2b-51
+2,2b,54,[Buzzards Bay and Vineyard Sound],http://maps.bpl.org/id/12639,4-25-1776,2,map,yes,2-2b-54
 2,2b,56,A plan of the town of Newport in the province of Rhode Island,http://maps.bpl.org/id/12640,4-24-1776,2,other,,
-2,2b,57a,[Coast of Maine from Moose Cove to Gouldsboro Bay],http://maps.bpl.org/id/12641,4-24-1776,2,map,,
-2,2b,57b,[Coast of New England from Chatham Harbor to Narragansett Bay],http://maps.bpl.org/id/12642,[1776],3,map,,
+2,2b,57a,[Coast of Maine from Moose Cove to Gouldsboro Bay],http://maps.bpl.org/id/12641,4-24-1776,2,map,yes,2-2b-57a
+2,2b,57b,[Coast of New England from Chatham Harbor to Narragansett Bay],http://maps.bpl.org/id/12642,[1776],3,map,yes,2-2b-57b
 2,3,63,"A chart of the coast of New York, New Jersey, Pensilvania, Maryland, Virginia, North Carolina &c.",http://maps.bpl.org/id/12643,3-1-1780,1,map,,
-2,3,65,[A chart of New York Island & North River ?],http://maps.bpl.org/id/12644,1777,2,map,,
-2,3,67,[Environs of Philadelphia],http://maps.bpl.org/id/12645,2-19-1777,1,map,,
+2,3,65,[A chart of New York Island & North River ?],http://maps.bpl.org/id/12644,1777,2,map,yes,2-3-63
+2,3,67,[Environs of Philadelphia],http://maps.bpl.org/id/12645,2-19-1777,1,map,yes,2-3-65
 2,3,68,A sketch of the operations before Charlestown the capital of South Carolina,http://maps.bpl.org/id/12646,[1780],1,map,,
 2,3,69,Port Royal in South Carolina,http://maps.bpl.org/id/12647,8-10-1777,1,map,,
 2,3,76,"Mississipi River, from Iberville to Yazous",http://maps.bpl.org/id/12648,1-1-1779,1,map,,
