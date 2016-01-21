@@ -80,19 +80,18 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 2,1b,13,The harbours of Rishibucto & Bustush on the west shore of the gulph of St. Lawrence,http://maps.bpl.org/id/12615,1-26-1778,1,map,yes,2-1b-13
 2,1b,14,The Magdalen Isles in the Gulph of St. Lawrence,http://maps.bpl.org/id/12616,1-20-1778,1,map,yes,2-1b-14
 2,1b,16,A chart of the island of Cape Breton,http://maps.bpl.org/id/12617,1781?,2,map,yes,2-1b-16
-2,1b,69A,[The south east coast of the island of St. John] (left sheet),http://maps.bpl.org/id/12618,1780,1,map,yes,2-1b-69a
-2,1b,17,[The south east coast of the island of St. John] (right sheet),http://maps.bpl.org/id/12619,1780,1,map,,
-2,1b,18A,The south east coast of the island of St. John (left sheet only),http://maps.bpl.org/id/12620,1780,2,map,,
-2,1b,18,A chart of Cape Breton and St. John's Islands &c. in the gulph of St. Lawrence,http://maps.bpl.org/id/12619,1781?,2,map,,
-2,1b,19,"A chart of the N.E. coast of Cape Breton Island, from St. Ann Bay to Cape Morien",http://maps.bpl.org/id/12621,1779,1,map,,
-2,1b,20,The south east coast of Cape Breton Island ?,http://maps.bpl.org/id/12622,7-30-1779,2,map,,
+2,1b,69A,[The south east coast of the island of St. John] (right and left sheet),http://maps.bpl.org/id/12618,1780,1,map,yes,2-1b-69a
+2,1b,18A,The south east coast of the island of St. John (left sheet only),http://maps.bpl.org/id/12620,1780,2,map,yes,2-1b-18a
+2,1b,18,A chart of Cape Breton and St. John's Islands &c. in the gulph of St. Lawrence,http://maps.bpl.org/id/12619,1781?,2,map,yes,2-1b-18
+2,1b,19,"A chart of the N.E. coast of Cape Breton Island, from St. Ann Bay to Cape Morien",http://maps.bpl.org/id/12621,1779,1,map,yes,2-1b-19
+2,1b,20,The south east coast of Cape Breton Island ?,http://maps.bpl.org/id/12622,7-30-1779,2,map,yes,2-1b-20
 2,2a,26,Charts of the coast and harbours of New England ?,http://maps.bpl.org/id/15188,1777?,,other,,
 2,2a,27,Atlantic Neptune. Part III. (contents),http://maps.bpl.org/id/15189,1777?,,other,,
 2,2a,27b,Contents. (variant contents page),http://maps.bpl.org/id/15190,1777?,,other,,
-2,2a,27a,The coast of New England,http://maps.bpl.org/id/12623,4-24-1776,1,map,,
-2,2a,30,A chart of the harbour of Rhode Island and Narraganset Bay,http://maps.bpl.org/id/12624,5-3-1776,3,map,,
-2,2a,31,[Coast of Maine from Frenchman Bay to Mosquito Harbor],http://maps.bpl.org/id/12625,4-24-1776,3,map,,
-2,2a,32,[Mount Desert Island and neighboring coast of Maine],http://maps.bpl.org/id/12626,7-15-1776,2,map,,
+2,2a,27a,The coast of New England,http://maps.bpl.org/id/12623,4-24-1776,1,map,yes,2-2a-27a
+2,2a,30,A chart of the harbour of Rhode Island and Narraganset Bay,http://maps.bpl.org/id/12624,5-3-1776,3,map,yes,2-2a-30
+2,2a,31,[Coast of Maine from Frenchman Bay to Mosquito Harbor],http://maps.bpl.org/id/12625,4-24-1776,3,map,yes,2-2a-31
+2,2a,32,[Mount Desert Island and neighboring coast of Maine],http://maps.bpl.org/id/12626,7-15-1776,2,map,yes,2-2a-32
 2,2a,33,"[Coast of Maine showing entrances of Blue Hill Bay, Isle of Haut Bay, and Penobscot Bay, with Owls Head, Vinalhaven Island, Isle au Haut, and other islands]",http://maps.bpl.org/id/12627,8-17-1776,1,map,,
 2,2a,34,"[Coast of Maine showing Blue Hill Bay, Penobscot Bay, Belfast Bay, Islesboro Island, Deer Island, and other islands]",http://maps.bpl.org/id/12628,9-3-1776,1?,map,,
 2,2a,35,[Coast of Maine from Mosquito Head to Spurwink River],http://maps.bpl.org/id/12629,4-24-1776,2,map,,
