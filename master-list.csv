@@ -6,9 +6,9 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 1,1a,3a,Contents of the charts and views of Nova Scotia (variant),http://maps.bpl.org/id/15178,1777,,other,0,0
 1,1a,4,References ,http://maps.bpl.org/id/15179,1777,,other,0,0
 1,1a,5,General Remarks ,http://maps.bpl.org/id/15180,1777,,other,0,0
-,,,General Remarks (verso),http://maps.bpl.org/id/15181,1777,,other,,
+,,,General Remarks (verso),http://maps.bpl.org/id/15181,1777,,other,0,0
 ,,70,Tables,http://maps.bpl.org/id/15172,1777,,other,0,0
-,,,Tables (verso),http://maps.bpl.org/id/15173,1777,,other,,
+,,,Tables (verso),http://maps.bpl.org/id/15173,1777,,other,0,0
 1,1a,6,"The coast of Nova Scotia, New England, New-York, Jersey, the Gulph and River of St. Lawrence : the islands of Newfoundland, Cape Breton, St. John, Antecosty, Sable, & c, and soundings thereof ? (engr. plate 4). ",http://maps.bpl.org/id/15112,1780,9,map,yes,1-1a-6
 1,1a,8,A chart of Nova Scotia,http://maps.bpl.org/id/15111,1775,1,map,yes,1-1a-8
 1,1a,43(v)," Mechios River near the Mills; A Sketch of Mechios Mills, July 31, 1777 (2 views)",http://maps.bpl.org/id/15113,1777,,view,yes,1-1a-43
@@ -22,7 +22,7 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 1,1b,21(v),"South entrance of Grand Passage; Cape St. Mary, N:E: one mile ; St. Mary's Bay (3 views)",http://maps.bpl.org/id/15119,[177-],,view,yes,1-1b-21
 1,1b,22,[Southwest coast of Nova Scotia from Cape Sable to Cape St. Mary]. ,http://maps.bpl.org/id/15120,1776,2,map,yes,1-1b-22
 1,1b,23(v),Cape Prospect bearing N: by E: distant 10 1/2 miles ; Cape Sambro ... ; The high lands of Haspotagoen ... ; The Ovens ... ; Cape Sable bearing N.N.W. ... ; The entrance of Barrington Bay ... ; Cape Sable bearing N:E: by N: distant 4 miles (5 views),http://maps.bpl.org/id/15121,1781,,view,yes,1-1b-23
-1,1b,24,The south west coast of the peninsula of Nova Scotia, http://maps.bpl.org/id/15122,1776,2,n/a,,
+1,1b,24,The south west coast of the peninsula of Nova Scotia, http://maps.bpl.org/id/15122,1776,2,n/a,0,0
 1,1b,25,Barrington Bay,http://maps.bpl.org/id/n42233,1776,2,map,yes,1-1b-25
 1,1b,26,Port Amherst ; Port Haldimand,http://maps.bpl.org/id/15124,1775,1,map,yes,1-1b-26
 1,1b,27,Port Campbell,http://maps.bpl.org/id/15125,1776,2,map,yes,1-1b-27
@@ -35,7 +35,7 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 1,1c,33,Charlotte Bay,http://maps.bpl.org/id/15134,1776,1,map,yes,1-1c-33
 1,1c,34,Leith Harbour,http://maps.bpl.org/id/15135,1775,1,map,yes,1-1c-34
 1,1c,34-v1,"Hopsons Nose, bearing N.N.W two Miles",http://maps.bpl.org/id/15135,1775,1,inset view,yes,1-1c-34-v1
-1,2a,35,The South East Coast of Nova Scotia,http://maps.bpl.org/id/15122,1776,2,n/a,,
+1,2a,35,The South East Coast of Nova Scotia,http://maps.bpl.org/id/15122,1776,2,n/a,0,0
 1,2a,36(v),"A view from the south eastward of Halifax Harbor ; Appearance of the shore, (at three miles off,) four or five leagues to the eastward of Halifax Harbor ; A view taken 4 miles off shore, Halifax Harbor bearing north ; Sambro light house, bearing west 4 1/2 miles distant ; Sambro light-house south-east distant 1 mile ; Chebucto Head, bearing north 6ø east, distant 2 miles. (6 views)",http://maps.bpl.org/id/15140,1777,,view,yes,1-2a-36
 1,2a,37,Halifax Harbour ? Catch Harbour,http://maps.bpl.org/id/15141,1776,2,map,yes,1-2a-37
 1,2a,37-v1,Chebucto Head North 4 West distant 2 Miles,http://maps.bpl.org/id/15141,1776,2,inset view,yes,1-2a-37-v1
@@ -44,46 +44,46 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 1,2a,39-v1,Chebucto Head North 4 West distant 2 Miles,http://maps.bpl.org/id/15142,1781,7,inset view,yes,1-2a-39-v1
 1,2a,39-v2,Light House S.W.b.S 1 Mile distant ,http://maps.bpl.org/id/15142,1781,7,inset view,yes,1-2a-39-v2
 1,2a,40,Egmont Harbour,http://maps.bpl.org/id/15143,[177-],1,map,yes,1-2a-40
-1,2a,40-v1-v2,Egmont Harbour: two unnamed inset views,http://maps.bpl.org/id/15143,[177-}],1,inset views,,
+1,2a,40-v1-v2,Egmont Harbour: two unnamed inset views,http://maps.bpl.org/id/15143,[177-}],1,inset views,n/a (unnamed) ,n/a (unnamed)
 1,2a,41(v),"View of Cape Egmont and winter Rock from the eastward ; Entrance of Egmont Harbor ; The entrance of Keppel Harbor, 10 leagues to the eastward of Halifax ; Falls of Hinchinbroke River, the north east branch of Sandwich Bay ; The entrance into Chisetcook Inlet 4 leagues eastward of Halifax ; Dartmouth Shore in the Harbor of Halifax. (6 views)",http://maps.bpl.org/id/15144,1777,,view,yes,1-2a-41
 1,2a,42,Keppell Harbour ; Knowles Harbour ; Tangier Harbour ; Saunder's Harbour ; Deane Harbour.,http://maps.bpl.org/id/15145,1777?,1,map,yes,1-2a-42
-1,2a,42-v1,Entrance of Keppel Harbor North by West 4 1/2 Miles distant,http://maps.bpl.org/id/15145,1777?,1,inset view,,1-2a-42-v1
-1,2a,42-v2,Cape Southampton Wst 1 Miles & 1/2 distant,http://maps.bpl.org/id/15145,1777?,1,inset view,,1-2a-42-v2
+1,2a,42-v1,Entrance of Keppel Harbor North by West 4 1/2 Miles distant,http://maps.bpl.org/id/15145,1777?,1,inset view,yes,1-2a-42-v1
+1,2a,42-v2,Cape Southampton Wst 1 Miles & 1/2 distant,http://maps.bpl.org/id/15145,1777?,1,inset view,yes,1-2a-42-v2
 1,2a,43,Spry Harbour ; Port Pallisser ; Port North ; Port Parker ; Beaver Harbour ; Fleming River,http://maps.bpl.org/id/15146,1776,1,map,yes,1-2a-43
 1,2a,43-v1,Cape Spry N.N.E. 1 Mile and 1/4 distant… Beaver Isles E. by N. 10 Miles distant…Westernmost Ledge of Pegasus Wing East 5 Miles distant,http://maps.bpl.org/id/15146,1776,1,inset view,yes,1-2a-43-v1
 1,2a,44,White Island Harbour ; Port Stephen's ; Liscomb Harbour ; Houlton Harbour ; River St. Mary.,http://maps.bpl.org/id/15147,1776,1,map,yes,1-2a-44
-1,2a,45(v),Appearance of the land from the White Islands to St. Marys River taken two leagues off shore ; The entrance of Milford Haven at the head of Chedabucto Bay ; The entrance of Port Bickerton bearing N.W. ; A view taken off the entrance of Beaver Harbor Bald Isle bearing E. 15ø N. ;  A view taken in the offing of Beaver Harbor Bald Isle bearing W. by S. 3/4 S. distant 3/4 of a mile ; Appearance of the shore to the westward of Canso Cranberry Isle bearing N. by E. 1/2 E. distant 4 miles ; The Beaver Islands C. Bald Isle N. 1/2 E. ; Appearance of the S:E: point of Nova Scotia taken from Canso Island shewing the distant land of Richmond Isles the Gut of Canso &c. (8 views),http://maps.bpl.org/id/15148,1781,,view,,
+1,2a,45(v),Appearance of the land from the White Islands to St. Marys River taken two leagues off shore ; The entrance of Milford Haven at the head of Chedabucto Bay ; The entrance of Port Bickerton bearing N.W. ; A view taken off the entrance of Beaver Harbor Bald Isle bearing E. 15ø N. ;  A view taken in the offing of Beaver Harbor Bald Isle bearing W. by S. 3/4 S. distant 3/4 of a mile ; Appearance of the shore to the westward of Canso Cranberry Isle bearing N. by E. 1/2 E. distant 4 miles ; The Beaver Islands C. Bald Isle N. 1/2 E. ; Appearance of the S:E: point of Nova Scotia taken from Canso Island shewing the distant land of Richmond Isles the Gut of Canso &c. (8 views),http://maps.bpl.org/id/15148,1781,,view,yes,1-2a-45
 1,2a,46,Sandwich Bay ?  ,http://maps.bpl.org/id/15149,1776,1,map,yes,1-2a-46
 1,2b,47,[Torbay],http://maps.bpl.org/id/15150,1775,1?,map,yes,1-2b-47
 1,2b,47-v1,Berry Head bearing North 21 East Distant 6 Miles & White Head Island North 63 East Distant 11 Miles,http://maps.bpl.org/id/15150,1775,1?,inset view,yes,1-2b-47-v1
 1,2b,48,White Haven,http://maps.bpl.org/id/15151,1774,1?,map,yes,1-2b-48
-1,2b,48-v1,White Haven: Unnamed view,http://maps.bpl.org/id/15151,1774,1?,inset view,,
+1,2b,48-v1,White Haven: Unnamed view,http://maps.bpl.org/id/15151,1774,1?,inset view,n/a (unnamed) ,n/a (unnamed)
 1,2b,49,[Canso Harbour],http://maps.bpl.org/id/15152,1775,1-var,map,yes,1-2b-49
-1,2b,49-v1,View of Port George taken from the top of Binney Isle,http://maps.bpl.org/id/15152,1775,1-var,inset view,,
+1,2b,49-v1,View of Port George taken from the top of Binney Isle,http://maps.bpl.org/id/15152,1775,1-var,inset view,yes,1-2b-45-v1
 1,2b,49,Sailing directions for Canso Harbour,http://maps.bpl.org/id/15153,1775,,other,0,0
 1,2b,50,Sailing directions for St. Peter's Bay,http://maps.bpl.org/id/15154,1775,,other,0,0
-1,2b,51,"[St. Peters Bay, on the south shore of Cape Breton Island]",http://maps.bpl.org/id/15155,1775,1,map,yes,1-2b-50
-1,2b,51-v1,View of Cape Rounf bearing West distant 3/4 of a Mile,http://maps.bpl.org/id/15155,1775,1,inset view,,
+1,2b,51,"[St. Peters Bay, on the south shore of Cape Breton Island]",http://maps.bpl.org/id/15155,1775,1,map,yes,1-2b-51
+1,2b,51-v1,View of Cape Round bearing West distant 3/4 of a Mile,http://maps.bpl.org/id/15155,1775,1,inset view,yes,1-2b-51-v1
 1,2b,51a,Crow Harbour : on the south shore of Chedabuctou Bay ...,http://maps.bpl.org/id/15156,1775,1,other,,
 1,2b,52,Milford Haven,http://maps.bpl.org/id/15157,1775,1,map,yes,1-2b-52
-1,2b,52-v1,Milford Haven: Unnamed view,http://maps.bpl.org/id/15157,1775,1,inset view,,
+1,2b,52-v1,Milford Haven: Unnamed view,http://maps.bpl.org/id/15157,1775,1,inset view,n/a (unnamed) ,n/a (unnamed)
 1,2b,53,Conway Harbour ; Port Aylesbury,http://maps.bpl.org/id/15158,1776,2,map,yes,1-2b-53
 1,2b,54,[Lennox Passage Region],http://maps.bpl.org/id/15159,1777,1,map,yes,1-2b-54
 1,2b,55,The Gut of Canso,http://maps.bpl.org/id/15160,1776,1,map,yes,1-2b-55
 1,2b,56,[Northumberland Strait. Northeastern district of Nova Scotia. Part of Cape Breton Island. Part of the island of St. John],http://maps.bpl.org/id/15161,5-11-1777,1,map,yes,1-2b-56
 1,2b,57,[North east coast of Nova Scotia ; Northumberland Streights ; Part of the island of St. John],http://maps.bpl.org/id/15162,5-22-1777,1,map,yes,1-2b-57
 1,2c,58,Port Hood,http://maps.bpl.org/id/15163,3-4-1776,2,map,yes,1-2c-58
-1,2c,59(v),"A view of Port Hood, sailing into the harbor",http://maps.bpl.org/id/15164,1777,,view,,
+1,2c,59(v),"A view of Port Hood, sailing into the harbor",http://maps.bpl.org/id/15164,1777,,view,yes,1-2c-59
 1,2c,61,Frederick Bay ? Ramsheg Harbour ? Pictou Harbour ? Port Luttrell,http://maps.bpl.org/id/15165,1776,2,map,yes,1-2c-61
-1,2c,62(v),"A view of the Plaister Cliffs, in George's Bay (on same sheet as 59)",http://maps.bpl.org/id/15164,1777,,view, ,
+1,2c,62(v),"A view of the Plaister Cliffs, in George's Bay (on same sheet as 59)",http://maps.bpl.org/id/15164,1777,,view,yes,1-2c-59
 1,2c,63,[Port Shediack and Cocagne],http://maps.bpl.org/id/15166,1776,1,map,yes,1-2c-63
 1,2c,64,[Isle of Sable],http://maps.bpl.org/id/15167,1777?,1?,map,yes,1-2c-64
 1,2c,65(v),A view of the east end of the Isle Sable ... ; The eastern end of the Isle Sable ... ; A view taken from the south side of the N:E: Barr ... ; A view taken from the ridge of the N:E: Barr ... ; A view of the north shore of the Isle Sable ? (5 views on 1 sheet),http://maps.bpl.org/id/15168,1776,,view,,
 1,2c,67(v),4 views and coastal profiles,http://maps.bpl.org/id/15169,1776,,view,,
 1,2c,68,Remarks on the Isle of Sable,http://maps.bpl.org/id/15170,1777,,other,0,0
-,,,Remarks on the Isle of Sable (con't),http://maps.bpl.org/id/15171,1777,,other,,
+,,,Remarks on the Isle of Sable (con't),http://maps.bpl.org/id/15171,1777,,other,0,0
 2,1a,[2],Blank sheet,0,,,other,0,
-,,,General title to volume 2,http://maps.bpl.org/id/15186,1777,,other,,
+,,,General title to volume 2,http://maps.bpl.org/id/15186,1777,,other,0,0
 2,1a,3,Atlantic Neptune. Part II. (contents page),http://maps.bpl.org/id/15187,1777?,,other,0,0
 2,1a,4,[Chart of the gulf and river of St. Lawrence],http://maps.bpl.org/id/12607,1777?,1,map,yes,2-1a-4
 2,1a,5,The St. Lawrence River from the Chaudiere River to Point aux Cocques,http://maps.bpl.org/id/12608,1777?,2,map,yes,2-1a-5
@@ -101,9 +101,9 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 2,1b,18,A chart of Cape Breton and St. John's Islands &c. in the gulph of St. Lawrence,http://maps.bpl.org/id/12619,1781?,2,map,yes,2-1b-18
 2,1b,19,"A chart of the N.E. coast of Cape Breton Island, from St. Ann Bay to Cape Morien",http://maps.bpl.org/id/12621,1779,1,map,yes,2-1b-19
 2,1b,20,The south east coast of Cape Breton Island ?,http://maps.bpl.org/id/12622,7-30-1779,2,map,yes,2-1b-20
-2,2a,26,Charts of the coast and harbours of New England ?,http://maps.bpl.org/id/15188,1777?,,other,,
-2,2a,27,Atlantic Neptune. Part III. (contents),http://maps.bpl.org/id/15189,1777?,,other,,
-2,2a,27b,Contents. (variant contents page),http://maps.bpl.org/id/15190,1777?,,other,,
+2,2a,26,Charts of the coast and harbours of New England ?,http://maps.bpl.org/id/15188,1777?,,other,0,0
+2,2a,27,Atlantic Neptune. Part III. (contents),http://maps.bpl.org/id/15189,1777?,,other,0,0
+2,2a,27b,Contents. (variant contents page),http://maps.bpl.org/id/15190,1777?,,other,0,0
 2,2a,27a,The coast of New England,http://maps.bpl.org/id/12623,4-24-1776,1,map,yes,2-2a-27a
 2,2a,30,A chart of the harbour of Rhode Island and Narraganset Bay,http://maps.bpl.org/id/12624,5-3-1776,3,map,yes,2-2a-30
 2,2a,31,[Coast of Maine from Frenchman Bay to Mosquito Harbor],http://maps.bpl.org/id/12625,4-24-1776,3,map,yes,2-2a-31
@@ -119,10 +119,10 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 2,2b,44,"[Coast of Massachusetts from Cape Ann to Manomet Point, including northern tip of Cape Cod]",http://maps.bpl.org/id/12635,4-29-1776,2,map,yes,2-2b-44
 2,2b,45,[Boston Bay and vicinity],http://maps.bpl.org/id/12636,11-13-1776,1,map,yes,2-2b-45
 2,2b,47,[A chart of the Harbour of Boston],http://maps.bpl.org/id/12637,8-5-1775,1,map,yes,2-2b-47
-2,2b,[47a],A chart of the Harbour of Boston ? Nautical remarks and directions,http://maps.bpl.org/id/15191,1775?,,other,,
+2,2b,[47a],A chart of the Harbour of Boston ? Nautical remarks and directions,http://maps.bpl.org/id/15191,1775?,,other,0,0
 2,2b,51,[Chart of Plymouth Bay],http://maps.bpl.org/id/12638,[177-],1,map,yes,2-2b-51
 2,2b,54,[Buzzards Bay and Vineyard Sound],http://maps.bpl.org/id/12639,4-25-1776,2,map,yes,2-2b-54
-2,2b,56,A plan of the town of Newport in the province of Rhode Island,http://maps.bpl.org/id/12640,4-24-1776,2,other,,
+2,2b,56,A plan of the town of Newport in the province of Rhode Island,http://maps.bpl.org/id/12640,4-24-1776,2,other,0,0
 2,2b,57a,[Coast of Maine from Moose Cove to Gouldsboro Bay],http://maps.bpl.org/id/12641,4-24-1776,2,map,yes,2-2b-57a
 2,2b,57b,[Coast of New England from Chatham Harbor to Narragansett Bay],http://maps.bpl.org/id/12642,[1776],3,map,yes,2-2b-57b
 2,3,63,"A chart of the coast of New York, New Jersey, Pensilvania, Maryland, Virginia, North Carolina &c.",http://maps.bpl.org/id/12643,3-1-1780,1,map,yes,2/3/1963
