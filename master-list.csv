@@ -64,7 +64,7 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 1,2b,50,Sailing directions for St. Peter's Bay,http://maps.bpl.org/id/15154,1775,,other,0,0
 1,2b,51,"[St. Peters Bay, on the south shore of Cape Breton Island]",http://maps.bpl.org/id/15155,1775,1,map,yes,1-2b-51
 1,2b,51-v1,View of Cape Round bearing West distant 3/4 of a Mile,http://maps.bpl.org/id/15155,1775,1,inset view,yes,1-2b-51-v1
-1,2b,51a,Crow Harbour : on the south shore of Chedabuctou Bay ...,http://maps.bpl.org/id/15156,1775,1,other,,
+1,2b,51a,Crow Harbour : on the south shore of Chedabuctou Bay ...,http://maps.bpl.org/id/15156,1775,1,other,0,0
 1,2b,52,Milford Haven,http://maps.bpl.org/id/15157,1775,1,map,yes,1-2b-52
 1,2b,52-v1,Milford Haven: Unnamed view,http://maps.bpl.org/id/15157,1775,1,inset view,n/a (unnamed) ,n/a (unnamed)
 1,2b,53,Conway Harbour ; Port Aylesbury,http://maps.bpl.org/id/15158,1776,2,map,yes,1-2b-53
@@ -78,7 +78,7 @@ Volume,Part,Number,Title,url,Date,State,"type (map, view, other)",shape-complete
 1,2c,62(v),"A view of the Plaister Cliffs, in George's Bay (on same sheet as 59)",http://maps.bpl.org/id/15164,1777,,view,yes,1-2c-59
 1,2c,63,[Port Shediack and Cocagne],http://maps.bpl.org/id/15166,1776,1,map,yes,1-2c-63
 1,2c,64,[Isle of Sable],http://maps.bpl.org/id/15167,1777?,1?,map,yes,1-2c-64
-1,2c,65(v),A view of the east end of the Isle Sable ... ; The eastern end of the Isle Sable ... ; A view taken from the south side of the N:E: Barr ... ; A view taken from the ridge of the N:E: Barr ... ; A view of the north shore of the Isle Sable ? (5 views on 1 sheet),http://maps.bpl.org/id/15168,1776,,view,,
+1,2c,65(v),A view of the east end of the Isle Sable ... ; The eastern end of the Isle Sable ... ; A view taken from the south side of the N:E: Barr ... ; A view taken from the ridge of the N:E: Barr ... ; A view of the north shore of the Isle Sable ? (5 views on 1 sheet),http://maps.bpl.org/id/15168,1776,,view,yes,1-2c-65
 1,2c,67(v),4 views and coastal profiles,http://maps.bpl.org/id/15169,1776,,view,,
 1,2c,68,Remarks on the Isle of Sable,http://maps.bpl.org/id/15170,1777,,other,0,0
 ,,,Remarks on the Isle of Sable (con't),http://maps.bpl.org/id/15171,1777,,other,0,0
